@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = 'localhost';
-$dbuser = 'ultimate';
-$dbpass = 'ultimate';
-$dbname = 'ultimate';
+$dbhost = 'sql208.epizy.com';
+$dbuser = 'epiz_33283677';
+$dbpass = 'IAg5YoOfrEGvGG';
+$dbname = 'epiz_33283677_sixtyfourdatabase';
 $dbtable_prefix = ''; // default empty
 $dbtable_shortlink_pool_prefix = ''; // default empty
 $display_errors = true; // change to false once installed and tested
